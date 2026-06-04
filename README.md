@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sumon Ahmed
 
-### 🚀 Junior Frontend Developer | React & Next.js Enthusiast
+### 🚀 Junior Frontend Developer | React.js, Next.js & MERN Stack Enthusiast
 
 Passionate Frontend Developer from Bangladesh with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into real-world digital products and continuously learning new technologies to improve my development skills.
 
