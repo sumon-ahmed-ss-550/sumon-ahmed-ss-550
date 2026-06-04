@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Md Sumon Ahmed
+# Hi there 👋, I'm Sumon Ahmed
 
 ### 🚀 Junior Frontend Developer | React & Next.js Enthusiast
 
